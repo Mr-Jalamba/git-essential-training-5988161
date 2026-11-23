@@ -7,5 +7,3 @@ Small amount of content
 New line of content
 
 content for grep example
-
-important content
